@@ -1,0 +1,180 @@
+-
+  accounts:
+    github: ar-ibrahim
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Arwa Ibrahim'
+  uri: 'https://github.com/ar-ibrahim'
+-
+  accounts:
+    github: balhoff
+    orcid: 0000-0002-8688-6599
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Jim Balhoff'
+  uri: 'https://orcid.org/0000-0002-8688-6599'
+-
+  accounts:
+    github: caufieldjh
+    orcid: 0000-0001-5705-7831
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Harry Caufield'
+  uri: 'https://orcid.org/0000-0001-5705-7831'
+-
+  accounts:
+    github: cmungall
+    orcid: 0000-0002-6601-2165
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Chris Mungall'
+  uri: 'https://orcid.org/0000-0002-6601-2165'
+-
+  accounts:
+    github: diatomsRcool
+    orcid: 0000-0002-2908-3327
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Anne Thessen'
+  uri: 'https://orcid.org/0000-0002-2908-3327'
+-
+  accounts:
+    github: gingin77
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Ginnie Hench'
+  uri: 'https://github.com/gingin77'
+-
+  accounts:
+    github: jamesamcl
+    orcid: 0000-0002-8361-2795
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'James McLaughlin'
+  uri: 'https://orcid.org/0000-0002-8361-2795'
+-
+  accounts:
+    github: justaddcoffee
+    orcid: 0000-0002-2170-2250
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Justin Reese'
+  uri: 'https://orcid.org/0000-0002-2170-2250'
+-
+  accounts:
+    github: katiermullen
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Katie Mullen'
+  uri: 'https://github.com/katiermullen'
+-
+  accounts:
+    github: kevinschaper
+    orcid: 0000-0003-3311-7320
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Kevin Schaper'
+  uri: 'https://orcid.org/0000-0003-3311-7320'
+-
+  accounts:
+    github: matentzn
+    orcid: 0000-0002-7356-1779
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Nico Matentzoglu'
+  uri: 'https://orcid.org/0000-0002-7356-1779'
+-
+  accounts:
+    github: mbrush
+    orcid: 0000-0002-1048-5019
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Matthew Brush'
+  uri: 'https://orcid.org/0000-0002-1048-5019'
+-
+  accounts:
+    github: MeeSiing
+    orcid: 0000-0002-7638-4659
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'MeeSiing Ngu'
+  uri: 'https://orcid.org/0000-0002-7638-4659'
+-
+  accounts:
+    github: mellybelly
+    orcid: 0000-0001-9114-8737
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Melissa Haendel'
+  uri: 'https://orcid.org/0000-0001-9114-8737'
+-
+  accounts:
+    github: nicolevasilevsky
+    orcid: 0000-0001-5208-3432
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Nicole Vasilevsky'
+  uri: 'https://orcid.org/0000-0001-5208-3432'
+-
+  accounts:
+    github: nlharris
+    orcid: 0000-0001-6315-3707
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Nomi Harris'
+  uri: 'https://orcid.org/0000-0001-6315-3707'
+-
+  accounts:
+    github: pkalita-lbl
+    orcid: 0000-0002-6150-307X
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Patrick Kalita'
+  uri: 'https://orcid.org/0000-0002-6150-307X'
+-
+  accounts:
+    github: ptgolden
+    orcid: 0000-0002-3617-9378
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Patrick Golden'
+  uri: 'https://orcid.org/0000-0002-3617-9378'
+-
+  accounts:
+    github: sabrinatoro
+    orcid: 0000-0002-4142-7153
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Sabrina Toro'
+  uri: 'https://orcid.org/0000-0002-4142-7153'
+-
+  accounts:
+    github: sagehrke
+    orcid: 0000-0003-3245-2880
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Sarah Gehrke'
+  uri: 'https://orcid.org/0000-0003-3245-2880'
+-
+  accounts:
+    github: sierra-moxon
+    orcid: 0000-0002-8719-7760
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Sierra Moxon'
+  uri: 'https://orcid.org/0000-0002-8719-7760'
+-
+  accounts:
+    github: tannerzhang
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Tanner Zhang'
+  uri: 'https://github.com/tannerzhang'
+-
+  accounts:
+    github: yshwetar
+    orcid: 0000-0002-0587-4693
+  groups:
+    - 'https://monarchinitiative.org'
+  nickname: 'Yousif Shwetar'
+  uri: 'https://orcid.org/0000-0002-0587-4693'
